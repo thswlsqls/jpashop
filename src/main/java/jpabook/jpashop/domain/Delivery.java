@@ -19,7 +19,7 @@ public class Delivery {
     private Order order;
 
     @Embedded
-    private Address adress;
+    private Address address;
 
     @Enumerated(EnumType.STRING) //ORDINAL - 숫자값, 수정 추가가 어려움 //STRING - 문자열값
     private DeliveryStatus status; //READY COMP
