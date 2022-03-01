@@ -1,0 +1,18 @@
+spring:
+#  datasource:
+#    url: jdbc:h2:mem:test
+#    username: sa
+#    password:
+#    driver-class-name: org.h2.Driver
+#
+#  jpa:
+#    hibernate:
+#      ddl-auto: create -> 모든 테이블을 drop하고 create한 후 app 실행함, create-drop -> 동일하나, app 종료 시 drop해 초기화함
+#    properties:
+#      hibernate:
+#        show_sql: true
+#        format_sql: true
+
+logging.level:
+  org.hibernate.SQL: debug
+  org.hibernate.type: trace
