@@ -1,4 +1,5 @@
 # jpashop
+## spring boot web mini-project for studying JPA(hibernate)
 
 ----------------
 #1. Skills
