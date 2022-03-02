@@ -29,6 +29,9 @@ dependencies {
 	//JPA가 DBMS로 보내는 sql문 로깅
 	implementation 'com.github.gavlyukovskiy:p6spy-spring-boot-starter:1.8.0'
 
+	// 2.3이상부터 직접 설정함
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+
 	//@getter @setter
 	compileOnly 'org.projectlombok:lombok'
 	runtimeOnly 'com.h2database:h2'
