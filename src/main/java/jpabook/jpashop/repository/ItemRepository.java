@@ -19,7 +19,7 @@ public class ItemRepository {
         if(item.getId() == null){
             em.persist(item);
         }else{
-            em.merge(item);
+            em.merge(item); // 수, 실무에서 거의 안씀
         }
     }
     public Item findOne(Long id){
