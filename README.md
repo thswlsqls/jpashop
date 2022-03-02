@@ -1,7 +1,7 @@
 # jpashop
 
 ----------------
-1. skills
+##1. skills
 ----------------
 1) environment
   - JDK 11
@@ -28,7 +28,7 @@
   - h2 database
 
 ----------------
-2. functions
+##2. functions
 ----------------
 1) 회원 등록
 2) 회원 목록 조회
@@ -40,7 +40,7 @@
 8) 주문 취소
 
 ----------------
-3. captures
+##3. captures
 ----------------
 1) home view
 <img width="1003" alt="스크린샷 2022-03-02 오전 9 35 35" src="https://user-images.githubusercontent.com/58901024/156337274-71c4d72a-c8ff-401a-9d6c-45005ec4ab44.png">
