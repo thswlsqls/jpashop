@@ -51,7 +51,7 @@
 <img width="957" alt="스크린샷 2022-03-02 오후 7 07 59" src="https://user-images.githubusercontent.com/58901024/156341013-07b5af8b-ee5a-4ba7-bee4-bac6e1a04b5f.png">
 
 
-<img width<img width="1003" alt="스크린샷 2022-03-02 오전 10 09 56" src="https://user-images.githubusercontent.com/58901024/156337436-ba9ca353-c687-494f-9221-c4dd74b0d72a.png">
+<img width="1003" alt="스크린샷 2022-03-02 오전 10 09 56" src="https://user-images.githubusercontent.com/58901024/156337436-ba9ca353-c687-494f-9221-c4dd74b0d72a.png">
 
 
 3) member list view
